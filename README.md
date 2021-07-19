@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wolf4ok
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning ruby on rails
